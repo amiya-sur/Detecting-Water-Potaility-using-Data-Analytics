@@ -1,4 +1,4 @@
-# Water Potability Prediction using Data Analytics
+# Water Potability Prediction using Machine Learning
 
 Predicting the potability of water based on various physicochemical features using machine learning models.
 
